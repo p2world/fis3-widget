@@ -4,6 +4,7 @@
 npm i fis3 -g
 npm i fis3-hook-commonjs -g
 npm i fis3-postpackager-loader -g
+npm i fis3-packager-deps-pack -g
  */
 
 
